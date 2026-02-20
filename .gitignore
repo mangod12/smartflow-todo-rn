@@ -73,3 +73,11 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Security - DO NOT COMMIT
+android/key.properties
+android/app/my-release-key.keystore
+android/app/google-services.json
+
+# Generated APK
+*.apk
